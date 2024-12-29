@@ -1,4 +1,8 @@
-# Procedure for running the app
+# FRONTEND
+
+This is a Node.js Frontend proyect for a To-Do List App.
+
+## Procedure for running the app
 
 For running the app, we'll need two terminals running on the project direction, and type the following commands in each one:
 
@@ -30,7 +34,7 @@ Finally, with this command we can run the application and start using that on ou
 
 > http://127.0.0.1:5173/
 
-# About the project
+## About the project
 
 This project is about a To-Do List on which you can:
  - Create tasks
